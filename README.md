@@ -12,5 +12,5 @@ Material destinado ao curso de Flutter e Dart.
 
 ## Aula 05: Pré-requisitos para desenvolver em Flutter
 * [Instalação Flutter e Android Studio (Windows) - Documentação oficial](https://flutter.dev/docs/get-started/install/windows)
-* [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos){:target="_blank" rel="noopener"}
+* [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos)
 
