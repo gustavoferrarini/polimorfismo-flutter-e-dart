@@ -14,3 +14,6 @@ Material destinado ao curso de Flutter e Dart.
 * [Instalação Flutter e Android Studio (Windows) - Documentação oficial](https://flutter.dev/docs/get-started/install/windows)
 * [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos)
 
+## Aula 06 - (Opcional) - Utilizando o SCRCPY no desenvolvimento em Flutter
+* [Repositório do SCRCPY](https://github.com/Genymobile/scrcpy)
+* [Página de download do Android Debug Bridge (ADB)](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
