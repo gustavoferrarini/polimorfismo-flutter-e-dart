@@ -13,6 +13,7 @@ Material destinado ao curso de Flutter e Dart.
 ## Aula 05: Pré-requisitos para desenvolver em Flutter
 * [Instalação Flutter e Android Studio (Windows) - Documentação oficial](https://flutter.dev/docs/get-started/install/windows)
 * [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos)
+* [Instalação Flutter e Android Studio (Linux) - Documentação oficial](https://flutter.dev/docs/get-started/install/linux)
 
 ## Aula 06 - (Opcional) - Utilizando o SCRCPY no desenvolvimento em Flutter
 * [Repositório do SCRCPY](https://github.com/Genymobile/scrcpy)
