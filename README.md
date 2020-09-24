@@ -12,6 +12,7 @@ Material destinado ao curso de Flutter e Dart.
 * [Dart - Documentação oficial](https://dart.dev/guides)
 
 ## Aula 05: Pré-requisitos para desenvolver em Flutter
+* [Vídeo instalando o Flutter e Android Studio no Windows - Polimorfismo](https://youtu.be/7zA96C_q-6E)
 * [Instalação Flutter e Android Studio (Windows) - Documentação oficial](https://flutter.dev/docs/get-started/install/windows)
 * [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos)
 * [Instalação Flutter e Android Studio (Linux) - Documentação oficial](https://flutter.dev/docs/get-started/install/linux)
