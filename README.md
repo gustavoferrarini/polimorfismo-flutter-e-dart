@@ -12,7 +12,7 @@ Material destinado ao curso de Flutter e Dart.
 * [Dart - Documentação oficial](https://dart.dev/guides)
 
 ## Aula 05: Pré-requisitos para desenvolver em Flutter
-* [Vídeo instalando o Flutter e Android Studio no Windows - Polimorfismo](https://youtu.be/7zA96C_q-6E)
+* [Vídeo instalando e configurando o Flutter e Android Studio no Windows - Polimorfismo](https://youtu.be/7zA96C_q-6E)
 * [Instalação Flutter e Android Studio (Windows) - Documentação oficial](https://flutter.dev/docs/get-started/install/windows)
 * [Instalação Flutter e Android Studio (Mac) - Documentação oficial](https://flutter.dev/docs/get-started/install/macos)
 * [Instalação Flutter e Android Studio (Linux) - Documentação oficial](https://flutter.dev/docs/get-started/install/linux)
@@ -22,9 +22,14 @@ Material destinado ao curso de Flutter e Dart.
 * [Página de download do Android Debug Bridge (ADB)](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
 
 ## Aula 07 - App Eu Sou Rico - Criando um projeto em Flutter do zero
-* [Material Desing - Site oficial](https://material.io)
+* [Material Design - Site oficial](https://material.io)
 * [MaterialApp - Documentação do widget](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
 * [Center - Documentação do widget](https://api.flutter.dev/flutter/widgets/Center-class.html)
 * [Text - Documentação do widget](https://api.flutter.dev/flutter/widgets/Text-class.html)
 * [Função main - Documentação oficial](https://dart.dev/guides/language/language-tour#the-main-function)
 
+## Aula 08 - App Eu Sou Rico - Estruturando (Scaffolding) um aplicativo Flutter
+* [draw.io - Site para criação de fluxogramas](https://app.diagrams.net)
+* [Scaffold - Documentação do widget](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+* [AppBar - Documentação do widget](https://api.flutter.dev/flutter/material/AppBar-class.html)
+* [Image - Documentação do widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
