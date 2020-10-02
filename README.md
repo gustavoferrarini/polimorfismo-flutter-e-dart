@@ -33,3 +33,8 @@ Material destinado ao curso de Flutter e Dart.
 * [Scaffold - Documentação do widget](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 * [AppBar - Documentação do widget](https://api.flutter.dev/flutter/material/AppBar-class.html)
 * [Image - Documentação do widget](https://api.flutter.dev/flutter/widgets/Image-class.html)
+
+## Aula 09 - App Eu Sou Rico - Trabalhando com assets e com o arquivo pubspec
+* [rubi.png - Arquivo de imagem](https://drive.google.com/file/d/1bVOlUcdIJ3E_IqP8e7eTyEtiLCrvUlQK/view?usp=sharing)
+* [YAML - Informações adicionais](https://pt.wikipedia.org/wiki/YAML)
+* [AssetImage - Documentação do widget](https://api.flutter.dev/flutter/painting/AssetImage-class.html)
