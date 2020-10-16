@@ -47,3 +47,8 @@ Material destinado ao curso de Flutter e Dart.
 ## Aula 11 - App Eu Sou Rico - DESAFIO 01 (Eu Sou Programador) - Curso de Flutter e Dart
 * [icons8.com - Site com imagens vetorizadas](https://icons8.com/illustrations)
 * [vecteezy.com - Site com imagens vetorizadas](https://www.vecteezy.com)
+
+## Aula 12 - App MyCard - Criando um cartão de visita pessoal em Flutter - Curso de Flutter e Dart
+* [Projeto inicial MyCard](https://github.com/cribeiroduarte/my-card-flutter)
+
+
