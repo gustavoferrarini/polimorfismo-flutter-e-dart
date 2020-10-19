@@ -1,5 +1,5 @@
 # Curso de Flutter e Dart
-Material destinado ao curso de Flutter e Dart.
+Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 * [Canal no Youtube](https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA)
 * [Servidor no Discord - para discussões e dúvidas](https://discord.gg/xJkJSkB)
