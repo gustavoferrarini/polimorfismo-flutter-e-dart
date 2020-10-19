@@ -39,16 +39,16 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [YAML - Informações adicionais](https://pt.wikipedia.org/wiki/YAML)
 * [AssetImage - Documentação do widget](https://api.flutter.dev/flutter/painting/AssetImage-class.html)
 
-## Aula 10 - App Eu Sou Rico - Adicionar ícones nos aplicativos iOS e Android - Curso de Flutter e Dart
+## Aula 10 - App Eu Sou Rico - Adicionar ícones nos aplicativos iOS e Android
 * [rubi-icon.png - Arquivo de imagem (ícone)](https://drive.google.com/file/d/1B_xLgm-G2ENdGXO7FYgTLSStQ6xmBovT/view?usp=sharing)
 * [appicon.co - Site para criar ícones Android e iOS](https://appicon.co)
 * [Projeto final do aplicativo Eu Sou Rico](https://github.com/cribeiroduarte/eu-sou-rico-flutter)
 
-## Aula 11 - App Eu Sou Rico - DESAFIO 01 (Eu Sou Programador) - Curso de Flutter e Dart
+## Aula 11 - App Eu Sou Rico - DESAFIO 01 (Eu Sou Programador)
 * [icons8.com - Site com imagens vetorizadas](https://icons8.com/illustrations)
 * [vecteezy.com - Site com imagens vetorizadas](https://www.vecteezy.com)
 
-## Aula 12 - App MyCard - Criando um cartão de visita pessoal em Flutter - Curso de Flutter e Dart
+## Aula 12 - App MyCard - Criando um cartão de visita pessoal em Flutter
 * [Projeto inicial MyCard](https://github.com/cribeiroduarte/my-card-flutter)
 
 
