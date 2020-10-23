@@ -54,5 +54,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 13 - App MyCard - Entendendo o Hot Reload e o Hot Restart do Flutter
 * [Explicação sobre o Hot Reload - Documentação oficial](https://flutter.dev/docs/development/tools/hot-reload)
 
-
+## Aula 14 - App MyCard - Como usar o widget Container
+* [Catálogo de Widgets - Documentação oficial](https://flutter.dev/docs/development/ui/widgets)
+* [Container - Documentação oficial](https://api.flutter.dev/flutter/widgets/Container-class.html)
 
