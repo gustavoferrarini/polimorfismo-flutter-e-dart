@@ -6,7 +6,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 04: Como aproveitar ao máximo o curso
 * [KeyBr - Site aprimorar a habilidade de digitação](https://www.keybr.com)
-* [Sistema de anotações Cornell](https://drive.google.com/file/d/1DGR4MMYjrzy-IucVvLkaDo88PI6fBYL1/view?usp=sharing)
+* [Sistema de anotações Cornell](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/%20Sistema%20de%20anotações%20Cornell.pdf)
 * [Stack Overflow - Para dúvidas sobre Flutter](https://stackoverflow.com/questions/tagged/flutter)
 * [Flutter - Documentação oficial](https://flutter.dev/docs)
 * [Dart - Documentação oficial](https://dart.dev/guides)
@@ -40,7 +40,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [AssetImage - Documentação do widget](https://api.flutter.dev/flutter/painting/AssetImage-class.html)
 
 ## Aula 10 - App Eu Sou Rico - Adicionar ícones nos aplicativos iOS e Android
-* [rubi-icon.png - Arquivo de imagem (ícone)](https://drive.google.com/file/d/1B_xLgm-G2ENdGXO7FYgTLSStQ6xmBovT/view?usp=sharing)
+* [rubi-icon.png - Arquivo de imagem (ícone)](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/rubi-icon.png)
 * [appicon.co - Site para criar ícones Android e iOS](https://appicon.co)
 * [Projeto final do aplicativo Eu Sou Rico](https://github.com/cribeiroduarte/eu-sou-rico-flutter)
 
