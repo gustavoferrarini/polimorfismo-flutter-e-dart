@@ -1,3 +1,5 @@
+![Banner Polimorfismo](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/banner_polimorfismo.png)
+
 # Curso de Flutter e Dart
 Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
