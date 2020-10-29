@@ -62,3 +62,11 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Catálogo de Widgets - Documentação oficial](https://flutter.dev/docs/development/ui/widgets)
 * [Container - Documentação oficial](https://api.flutter.dev/flutter/widgets/Container-class.html)
 
+## Aula 15 - App MyCard - Como usar os widgets Column e Row no layout de apps
+* [Desafio proposto na aula](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/aula-15-desafio-layout.png)
+* [Row - Documentação oficial](https://api.flutter.dev/flutter/widgets/Row-class.html)
+* [Column - Documentação oficial](https://api.flutter.dev/flutter/widgets/Column-class.html)
+
+## Aula 16 - App MyCard - Entendendo as propriedades dos widgets (CircleAvatar)
+* [CircleAvatar - Documentação oficial](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
+
