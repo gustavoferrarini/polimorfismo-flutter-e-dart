@@ -70,3 +70,6 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 16 - App MyCard - Entendendo as propriedades dos widgets (CircleAvatar)
 * [CircleAvatar - Documentação oficial](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
 
+## Aula 17 - App MyCard - Incorporando fontes personalizadas no seu app Flutter
+* [Google Fonts](https://fonts.google.com)
+* [Fontes personalizadas - Documentação oficial](https://flutter.dev/docs/cookbook/design/fonts)
