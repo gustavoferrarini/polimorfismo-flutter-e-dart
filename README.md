@@ -64,12 +64,17 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 
 ## Aula 15 - App MyCard - Como usar os widgets Column e Row no layout de apps
 * [Desafio proposto na aula](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/aula-15-desafio-layout.png)
-* [Row - Documentação oficial](https://api.flutter.dev/flutter/widgets/Row-class.html)
-* [Column - Documentação oficial](https://api.flutter.dev/flutter/widgets/Column-class.html)
+* [Row - Documentação do widget](https://api.flutter.dev/flutter/widgets/Row-class.html)
+* [Column - Documentação do widget](https://api.flutter.dev/flutter/widgets/Column-class.html)
 
 ## Aula 16 - App MyCard - Entendendo as propriedades dos widgets (CircleAvatar)
-* [CircleAvatar - Documentação oficial](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
+* [CircleAvatar - Documentação do widget](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
 
 ## Aula 17 - App MyCard - Incorporando fontes personalizadas no seu app Flutter
 * [Google Fonts - Site oficial](https://fonts.google.com)
 * [Fontes personalizadas - Documentação oficial](https://flutter.dev/docs/cookbook/design/fonts)
+
+## Aula 18 - App MyCard - Adicionando ícones do Material Design com o widget Icon
+* [Icon - Documentação do widget](https://api.flutter.dev/flutter/material/Icons-class.html)
+* [Icons - Material Design](https://material.io/resources/icons/?style=baseline)
+* [materialpalette.com - Site de paleta de cores para o Material Design](https://www.materialpalette.com)
