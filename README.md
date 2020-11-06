@@ -26,6 +26,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Repositório do SCRCPY](https://github.com/Genymobile/scrcpy)
 * [Página de download do Android Debug Bridge (ADB)](https://developer.android.com/studio/releases/platform-tools?hl=pt-br)
 
+# Módulo I
 ## Aula 07 - App Eu Sou Rico - Criando um projeto em Flutter do zero
 * [Material Design - Site oficial](https://material.io)
 * [MaterialApp - Documentação do widget](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
@@ -53,6 +54,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [icons8.com - Site com imagens vetorizadas](https://icons8.com/illustrations)
 * [vecteezy.com - Site com imagens vetorizadas](https://www.vecteezy.com)
 
+# Módulo II
 ## Aula 12 - App MyCard - Criando um cartão de visita pessoal em Flutter
 * [Projeto inicial do app MyCard](https://github.com/cribeiroduarte/my-card-flutter)
 
