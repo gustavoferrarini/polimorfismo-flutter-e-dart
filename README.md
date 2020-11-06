@@ -8,6 +8,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Canal no Youtube](https://www.youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA)
 * [Servidor no Discord - para discussões e dúvidas](https://discord.gg/xJkJSkB)
 
+# Introdução
 ## Aula 04: Como aproveitar ao máximo o curso
 * [KeyBr - Site aprimorar a habilidade de digitação](https://www.keybr.com)
 * [Sistema de anotações Cornell](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/%20Sistema%20de%20anotações%20Cornell.pdf)
