@@ -81,3 +81,9 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Icon - Documentação do widget](https://api.flutter.dev/flutter/material/Icons-class.html)
 * [Icons - Material Design](https://material.io/resources/icons/?style=baseline)
 * [materialpalette.com - Site de paleta de cores para o Material Design](https://www.materialpalette.com)
+
+## Aula 19 - App MyCard - Como usar os widgets Card e ListTile do Flutter
+* [Card - Documentação do widget](https://api.flutter.dev/flutter/material/Card-class.html)
+* [Padding - Documentação do widget](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+* [ListTile - Documentação do widget](https://api.flutter.dev/flutter/material/ListTile-class.html)
+* [Projeto final do aplicativo MyCard](https://github.com/cribeiroduarte/my-card-final-flutter)
