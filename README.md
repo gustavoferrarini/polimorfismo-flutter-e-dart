@@ -87,3 +87,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Padding - Documentação do widget](https://api.flutter.dev/flutter/widgets/Padding-class.html)
 * [ListTile - Documentação do widget](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [Projeto final do aplicativo MyCard](https://github.com/cribeiroduarte/my-card-final-flutter)
+
+## Aula 20 - App MyCard - DESAFIO 02 - Parte 1 (Calculadora)
+* [Projeto inicial do desafio](https://github.com/cribeiroduarte/desaifo-1-calculadora-flutter-estrutura-inicial)
+* [Layout de referência](https://github.com/cribeiroduarte/imagens-curso-flutter/blob/main/desafio-1-calculadora.png)
