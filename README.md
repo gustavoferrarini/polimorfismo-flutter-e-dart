@@ -101,5 +101,5 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [Image.asset - Documentação do widget](https://api.flutter.dev/flutter/widgets/Image/Image.asset.html)
 
 ## Aula 23 - App Dadoos - Como usar as Intention Actions do Flutter
-* [Intetion actions - Android Studio](https://www.jetbrains.com/help/idea/intention-actions.html)
+* [Intention actions - Android Studio](https://www.jetbrains.com/help/idea/intention-actions.html)
 * [Quick actions - Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/quick-actions?view=vs-2019)
