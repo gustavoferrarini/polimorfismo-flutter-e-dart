@@ -103,3 +103,9 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 23 - App Dadoos - Como usar as Intention Actions do Flutter
 * [Intention actions - Android Studio](https://www.jetbrains.com/help/idea/intention-actions.html)
 * [Quick actions - Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/quick-actions?view=vs-2019)
+
+## Aula 24 - App Dadoos - Adicionando detecção de gestos em botões (TextButton)
+* [FlatButton (OBSOLETO) - Documentação do widget](https://api.flutter.dev/flutter/material/FlatButton-class.html)
+* [TextButton (Recomendado se estiver usando versão do Flutter superior a 1.22) - Documentação do widget](https://api.flutter.dev/flutter/material/TextButton-class.html)
+* [Material Components - Documentação oficial](https://flutter.dev/docs/development/ui/widgets/material)
+* [voidCallBack - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/VoidCallback.html)
