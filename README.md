@@ -109,3 +109,7 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 * [TextButton (Recomendado se estiver usando versão do Flutter superior a 1.22) - Documentação do widget](https://api.flutter.dev/flutter/material/TextButton-class.html)
 * [Material Components - Documentação oficial](https://flutter.dev/docs/development/ui/widgets/material)
 * [voidCallBack - Documentação oficial](https://api.flutter.dev/flutter/dart-ui/VoidCallback.html)
+
+## Aula 26 - App Dadoos - Alterando os dados de maneira reativa
+* [Interpolação de strings - Documentação oficial](https://dart.dev/guides/language/language-tour#a-basic-dart-program)
+
