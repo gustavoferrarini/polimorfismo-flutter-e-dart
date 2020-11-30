@@ -113,3 +113,6 @@ Material destinado ao curso de Flutter e Dart oferecido pelo canal Polimorfismo.
 ## Aula 26 - App Dadoos - Alterando os dados de maneira reativa
 * [Interpolação de strings - Documentação oficial](https://dart.dev/guides/language/language-tour#a-basic-dart-program)
 
+## Aula 27 - App Dadoos - [Dart] Variáveis
+* [Variáveis - Documentação oficial](https://dart.dev/guides/language/language-tour#variables)
+* [DartPad](https://dartpad.dev/)
